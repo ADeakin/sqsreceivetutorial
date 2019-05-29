@@ -1,4 +1,4 @@
-Add aws.json credentials received from eEE to directory
+Add credentials.json credentials received from eEE to directory
 
 npm install
 node index.js
